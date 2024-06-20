@@ -1,7 +1,7 @@
 # todo-list-app
 # To Do List App
 
-A simple and intuitive To Do List web application with user authentication, task management, and task status updates.
+A simple To Do List web application.
 
 ## Prerequisites
 
